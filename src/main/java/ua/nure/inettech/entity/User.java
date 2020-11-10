@@ -228,4 +228,17 @@ public class User
         this.trainer = value;
     }
 
+    @Override
+    public String toString() {
+        return "User{" +
+                "id=" + id +
+                "userName='" + userName + '\'' +
+                ", userLastName='" + userLastName + '\'' +
+                ", userBirthdayDate=" + userBirthdayDate +
+                ", userInformation='" + userInformation + '\'' +
+                ", phones=" + phones +
+                ", order=" + order +
+                ", trainer=" + trainer +
+                '}';
+    }
 }
