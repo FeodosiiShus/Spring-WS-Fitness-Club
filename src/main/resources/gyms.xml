@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<inet:gyms xmlns:inet="http://inettech.nure.ua">
+    <inet:gym id="1">
+        <inet:gymName>Тренажерный зал</inet:gymName>
+        <inet:gymMaximumUser>60</inet:gymMaximumUser>
+        <inet:gymInformation>Тренажерный зал</inet:gymInformation>
+    </inet:gym>
+    <inet:gym id="2">
+        <inet:gymName>Бассейн</inet:gymName>
+        <inet:gymMaximumUser>100</inet:gymMaximumUser>
+        <inet:gymInformation>Бассейн</inet:gymInformation>
+    </inet:gym>
+    <inet:gym id="3">
+        <inet:gymName>Йога-зал</inet:gymName>
+        <inet:gymMaximumUser>20</inet:gymMaximumUser>
+        <inet:gymInformation>Йога-зал</inet:gymInformation>
+    </inet:gym>
+    <inet:gym id="4">
+        <inet:gymName>SPA-зона</inet:gymName>
+        <inet:gymMaximumUser>30</inet:gymMaximumUser>
+        <inet:gymInformation>SPA-зона</inet:gymInformation>
+    </inet:gym>
+    <inet:gym id="5">
+        <inet:gymName>Танцевальный зал</inet:gymName>
+        <inet:gymMaximumUser>15</inet:gymMaximumUser>
+        <inet:gymInformation>Танцевальный зал</inet:gymInformation>
+    </inet:gym>
+    <inet:gym id="6">
+        <inet:gymName>Студия красоты</inet:gymName>
+        <inet:gymInformation>Студия красоты</inet:gymInformation>
+    </inet:gym>
+    <inet:gym id="7">
+        <inet:gymName>Фитнес-бар</inet:gymName>
+        <inet:gymInformation>Фитнес-бар</inet:gymInformation>
+    </inet:gym>
+</inet:gyms>
