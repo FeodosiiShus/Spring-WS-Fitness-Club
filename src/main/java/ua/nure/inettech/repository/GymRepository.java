@@ -3,7 +3,6 @@ package ua.nure.inettech.repository;
 import org.springframework.stereotype.Component;
 import org.springframework.util.Assert;
 import ua.nure.inettech.entity.Gym;
-import ua.nure.inettech.entity.Gyms;
 
 import javax.annotation.PostConstruct;
 import java.util.ArrayList;
